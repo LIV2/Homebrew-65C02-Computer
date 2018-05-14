@@ -12,8 +12,8 @@ I am designing this in Circuitmaker, You can find the Circuitmaker project [here
 # Memory Map
 The Memory map I am using is currently as follows:  
 0x0000-0xCFFF: RAM  
-0xD010-0xD01F: ACIA  
-0xD020-0xD02F: VIA  
+0xD000-0xD0FF: UART  
+0xD100-0xD1FF: VIA  
 0xD030-0xDFFF: IO Space  
 0xE000-0xFFFF: ROM  
 This can be changed to suit your needs simply by changing the configuration of the CPLD.  
