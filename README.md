@@ -14,7 +14,9 @@ The Memory map I am using is currently as follows:
 0x0000-0xCFFF: RAM  
 0xD000-0xD0FF: UART  
 0xD100-0xD1FF: VIA  
-0xD030-0xDFFF: IO Space  
+0xD200-0xD2FF: IO Select 2  
+0xD300-0xD3FF: IO Select 3  
+0xD400-0xDFFF: Unused  
 0xE000-0xFFFF: ROM  
 This can be changed to suit your needs simply by changing the configuration of the CPLD.  
 
