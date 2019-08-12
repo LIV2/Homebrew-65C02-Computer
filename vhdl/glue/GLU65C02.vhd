@@ -31,7 +31,6 @@ signal FF1: std_logic := '0';
 begin
 
 -- MRDn/MWRn gated by PHI2 OR FF1 so they are mantained through waitstate cycles
--- Don't allow writes to ROM space
 
 MRDn <= RWn NAND (PHI2 OR FF1);
 MWRn <= (NOT RWn) NAND (PHI2 OR FF1);
