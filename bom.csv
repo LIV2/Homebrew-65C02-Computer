@@ -1,0 +1,32 @@
+Designator,Comment,Description,Quantity
+,,,
+B1,TE Connectivity / AMP 2-1825910-7,Switch Tactile OFF (ON) SPST Extended Round Button PC Pins 0.05A 24VDC 100000Cycles 1.57N Thru-Hole Loose,1
+"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C22, C23, C25, C26",0.1uF,0603 0.1uF Capacitor,24
+C21,330nf,CAP CER 0.33UF 16V 10% X5R 0603,1
+C24,200uF,Cap Aluminum 1000uF 16V 20% (10 X 16mm) Radial Aluminum Cylindrical Can 5mm 680mA 2000 hr 85°C Bulk,1
+D1,Diodes Inc. BAT750,VR = 40V  IF = 750mA  VF < 490mV @ 750mA SOT23,1
+D2,1N4004,1N400 Series 400 V 1 A Through Hole General Purpose Rectifier - DO-41,1
+J1,Switchcraft RAPC722X,"Conn; AV; Power; Jack; Mini; 2.0mmPinDia; RtAngle; Thru-hole; forS760, S765Plug",1
+J2,TE Connectivity / AMP 5103310-2,Pin strip Contact spacing: 2.54 mm Total number of pins: 14 TE Connectivity 1 pc(s),1
+J3,5504F1-09P-02A-03,"D SUB CONNECTOR, PADS +40%, STANDARD, 9POS, PLUG; Connector Type: D Sub; No. of Contacts: 9; D Sub Shell Size: DE; Connector Bod...",1
+J4,TE Connectivity 826656-3,"TE Connectivity AMPMODU Series, 2.54mm Pitch 6 Way 2 Row Straight PCB Header, Solder Termination, 3A",1
+J5,Molex 70246-1001,Conn Shrouded Header HDR 10 POS 2.54mm Solder ST Thru-Hole C-Grid???? Tray,1
+J6,TE Connectivity 5749231-1,Conn Miniature Circular DIN RCP 6 POS Solder RA Thru-Hole 6 Terminal 1 Port Tube,1
+J7,Molex 22-11-2062,"KK® 254 Solid Header, Vertical, with Friction Lock, 6 Circuits, Gold (Au) Plating",1
+"R1, R2, R3, R4, R5, R7, R8, R9",3k3,Thick Film Resistors - SMD 1/10watt 3.3Kohms 1%,8
+R6,0,Thick Film Resistors - SMD 1/10watt 3.3Kohms 1%,1
+R10,10k,Res Thick Film 0603 10K Ohm 1% 0.1W(1/10W) ±100ppm/C Molded SMD Automotive Paper T/R,1
+R11,1k,"RESISTOR, ANTI SULFUR, 1K, 0603, 5%; Resistance: 1kohm; Resistance Tolerance: ± 5%; Power Rating: 100mW; Voltage Rati...",1
+"SLOT1, SLOT2, SLOT3",ISA 8-BIT Card-edge connector 62 pos,62 pos card-edge connector,3
+U1,Maxim Integrated DS1813-10+,Processor Supervisor 4.35V 0V to 5.5V 3-Pin TO-92,1
+U2,W65C02S,6502 CPU,1
+U3,AT28C64B-15PU,AT28C64B Series 64 KB (8 K x 8) 5.5 V High-Performance Parallel EEPROM - DIP-28,1
+"U4, U5",CY7C199CN-15PXC,SRAM Chip Async Single 5V 256K-bit 32K x 8 15ns 28-Pin PDIP Tube,2
+U6,Altera EPM7064STC44-10N,IC: CPLD; SMD; TQFP44; Series: Max 7000; Amount of macr,1
+U7,ATtiny861A-PU,"8-bit AVR Microcontroller, 2.7-5.5V, 20MHz, 8KB Flash, 512 Bytes EEPROM, 512 Bytes SRAM, 20-pin PDIP, Industrial Grade (-40°C to 85°C)",1
+U8,MAX232N,"Dual EIA-232 Driver / Receiver, 0 to 70 degC, 16-Pin PDIP (N), Pb-Free (RoHS)",1
+U9,"NXP Semiconductors SC28L92A1B,557",Integrated circuits from leading manufacturers. Please read our extensive documentation which is free to download.,1
+U10,Western Design Center W65C22N6TPG-14,W65C22N Versatile Interface Adapter (VIA),1
+U11,LM7805,"Linear Voltage Regulator, Positive, 5.0 V, 1.0 A Vout: 5.0 V; TJ = 0°C to +125°C",1
+Y1,CTS Components MXO45HS-3C-5M0000,Oscillator XO 5MHz ??50ppm 50pF (Stability) HCMOS/TTL 55% 5V 4-Pin Metal DIP Thru-Hole Tray,1
+Y2,CTS Components MXO45HS-3C-1M8432,Oscillator XO 1.8432MHz ±50ppm 50pF (Stability) HCMOS/TTL 55% 5V 4-Pin Metal DIP Thru-Hole Tray,1
