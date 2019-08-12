@@ -5,7 +5,6 @@
 # Introduction
 This is a 65C02 based computer with on-board Serial, Parallel IO, PS/2 Keyboard support and 3 expansion slots.  
 A VGA card will come later as an expansion card  
-I have not finished the design yet so I probably wouldn't be rushing to order boards!  
 
 I am designing this in Circuitmaker, You can find the Circuitmaker project [here](https://circuitmaker.com/Projects/Details/Matt-Harlum/65C02-Computer-v12)  
 
