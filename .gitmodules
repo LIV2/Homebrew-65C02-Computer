@@ -1,0 +1,3 @@
+[submodule "rom"]
+	path = rom
+	url = git@github.com:LIV2/MHMON.git
