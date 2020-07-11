@@ -47,7 +47,7 @@ RAMCS2 <= '0' when ((to_integer(addr (15 downto 12)) >= 16#8#) AND (to_integer(a
 
 ROMCS  <= '0' when (to_integer(addr (15 downto 12)) >= 16#E#) else '1';
 
-IOSEL0 <= '0' when (to_integer(addr (15 downto 8)) = 16#D0#) else '1';
+IOSEL0 <= '0' when (to_integer(addr (15 downto 8)) = 16#D0#) AND PHI2 = '1' else '1';
 IOSEL1 <= '0' when (to_integer(addr (15 downto 8)) = 16#D1#) else '1';
 IOSEL2 <= '0' when (to_integer(addr (15 downto 8)) = 16#D2#) else '1';
 IOSEL3 <= '0' when (to_integer(addr (15 downto 8)) = 16#D3#) else '1';
