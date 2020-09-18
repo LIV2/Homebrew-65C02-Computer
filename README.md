@@ -20,8 +20,12 @@ The Memory map I am using is currently as follows:
 This can be changed to suit your needs simply by changing the configuration of the CPLD.  
 
 # Software
-Code for the PS/2 Keyboard controller is available on my github at https://github.com/LIV2/AVR-PS2-KBC  
-Sources for the CPLD and a basic Monitor ROM will become available on my github as this system is developed.  
+* [PS/2 Keyboard controller](https://github.com/LIV2/AVR-PS2-KBC)
+* [ROM](https://github.com/LIV2/MHMON)
+
+# Expansions
+* [VGA card](https://github.com/LIV2/VGA-6502)
+* [Floppy Disk card](https://github.com/LIV2/65C02-FDC)
 
 ----
 ![Creative Commons Attribution 4.0 International License](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-88x31.png "CC BY")
